@@ -1,0 +1,121 @@
+OrderID,Customer,City,Category,Product,Quantity,UnitPrice,Discount,OrderDate,Salesperson
+3001,Karan Mehta,Pune,Electronics,Smartphone,1.0,25000.0,0.05,27-01-2025,Aarav
+3002,Rohit Kumar,Delhi,Electronics,Smartphone,5.0,24800.0,0.0,25-02-2025,Simran
+3003,Amit Sharma,Pune,Furniture,Study Table,5.0,8800.0,0.05,25-04-2025,Aarav
+3004,Rahul Singh,Lucknow,Stationery,Notebook,1.0,220.0,0.1,09-02-2025,Simran
+3005,Priya Verma,Lucknow,Electronics,Tablet,1.0,17800.0,0.1,30-03-2025,Aarav
+3006,Sneha Jain,Delhi ,Stationery,Notebook,1.0,420.0,0.0,22-05-2025,Vikas
+3007,Riya Sharma,Pune,Home Appliances,Mixer Grinder,3.0,3000.0,0.0,19-06-2025,Simran
+3008,Neha Gupta,Mumbai,Stationery,Notebook,1.0,420.0,0.1,27-04-2025,Vikas
+3009,Pooja Yadav,Pune,Electronics,Headphones,3.0,2600.0,0.0,05-06-2025,Simran
+3010,Rahul Singh,Hyderabad,Furniture,Study Table,2.0,8800.0,0.1,13-06-2025,Aarav
+3011,Amit Sharma,Pune,Furniture,Office Chair,3.0,6800.0,0.1,13-04-2025,Vikas
+3012,Riya Sharma,Jaipur,Electronics,Smartphone,2.0,25000.0,0.15,12-04-2025,Meera
+3013,Rahul Singh,mumbai,Electronics,Headphones,3.0,2600.0,0.2,20-04-2025,Aarav
+3014,Neha Gupta,Agra,Home Appliances,Electric Kettle,3.0,2100.0,0.0,13-01-2025,Ankit
+3015,Rohit Kumar,Mumbai,Electronics,Headphones,2.0,2800.0,0.15,02-06-2025,Meera
+3016,Mohit Agarwal,Delhi,Furniture,Study Table,3.0,8300.0,0.2,10-03-2025,Vikas
+3017,Rohit Kumar,Agra,Electronics,Smartphone,3.0,25300.0,0.0,09-03-2025,Aarav
+3018,Priya Verma,Bengaluru,Electronics,Headphones,5.0,2500.0,0.05,06-04-2025,Simran
+3019,Amit Sharma,Jaipur,Furniture,Study Table,5.0,8800.0,0.0,29-01-2025,Vikas
+3020,Amit Sharma,Pune,Stationery,Notebook,2.0,-80.0,0.0,05-05-2025,Ankit
+3021,,Hyderabad,Furniture,Study Table,2.0,8500.0,0.1,16-05-2025,Aarav
+3022,Mohit Agarwal,Pune,Home Appliances,Electric Kettle,2.0,1900.0,0.15,21-06-2025,Vikas
+3023,Sneha Jain,Mumbai,Stationery,Backpack,5.0,1500.0,0.05,17-01-2025,Vikas
+3024,Mohit Agarwal,Pune,Electronics,Laptop,5.0,55000.0,0.0,19-01-2025,Ankit
+3025,Amit Sharma,Jaipur,Furniture,Office Chair,1.0,6800.0,0.2,02-03-2025,Vikas
+3026,Mohit Agarwal,Agra,Stationery,Backpack,2.0,1800.0,0.05,02-05-2025,Meera
+3027,Priya Verma,Lucknow,Furniture,Office Chair,1.0,7100.0,0.15,16-04-2025,Meera
+3028,Amit Sharma,Lucknow,Electronics,Laptop,1.0,55100.0,,05-03-2025,Simran
+3029,Sneha Jain,Agra,Furniture,Office Chair,5.0,7300.0,0.05,13-03-2025,Meera
+3030,Sneha Jain,Mumbai,Furniture,Office Chair,1.0,6800.0,0.2,04-01-2025,Ankit
+3031,Rohit Kumar,Hyderabad,Furniture,Office Chair,2.0,7300.0,0.05,13-04-2025,Ankit
+3032,Amit Sharma,Lucknow,Electronics,Headphones,4.0,2600.0,0.15,15-03-2025,Meera
+3033,Rahul Singh,Pune,Furniture,Study Table,4.0,8600.0,0.05,15-01-2025,Aarav
+3034,Pooja Yadav,Delhi,Furniture,Study Table,1.0,8300.0,0.2,03-05-2025,Aarav
+3035,Amit Sharma,Mumbai,Furniture,Study Table,2.0,8500.0,0.0,02-06-2025,Ankit
+3036,Priya Verma,Pune,Furniture,Office Chair,,6800.0,0.2,21-01-2025,Meera
+3037,Mohit Agarwal,Jaipur,Home Appliances,Mixer Grinder,5.0,3300.0,0.05,21-06-2025,Vikas
+3038,Rohit Kumar,Agra,Furniture,Office Chair,3.0,7100.0,0.15,22-03-2025,Ankit
+3039,Riya Sharma,Mumbai,Electronics,Laptop,4.0,54800.0,0.2,24-02-2025,Aarav
+3040,Pooja Yadav,Mumbai,Stationery,Notebook,2.0,120.0,0.1,14-03-2025,Simran
+3041,Karan Mehta,Delhi,Stationery,Backpack,5.0,1600.0,0.0,04-02-2025,Vikas
+3042,Mohit Agarwal,Agra,Electronics,Smartphone,1.0,25100.0,0.1,04-06-2025,Simran
+3043,Karan Mehta,Hyderabad,Electronics,Tablet,2.0,,0.0,24-01-2025,Meera
+3044,Amit Sharma,Jaipur,Stationery,Notebook,1.0,120.0,0.1,11-02-2025,Meera
+3045,Mohit Agarwal,Delhi,Furniture,Study Table,4.0,8300.0,0.0,26-06-2025,Simran
+3046,Pooja Yadav,Agra,Furniture,Study Table,1.0,8800.0,0.05,11-01-2025,Vikas
+3047,Pooja Yadav,Pune,Electronics,Tablet,1.0,18000.0,0.0,01-04-2025,Aarav
+3048,Rahul Singh,Pune,Home Appliances,Electric Kettle,5.0,1800.0,0.05,16-04-2025,Ankit
+3049,Rohit Kumar,Pune,Electronics,Headphones,3.0,2600.0,0.05,29-06-2025,Ankit
+3050,Sneha Jain,Pune,Home Appliances,Electric Kettle,1.0,1800.0,0.15,31-03-2025,Vikas
+3051,Amit Sharma,Pune,Furniture,Office Chair,2.0,7300.0,0.1,13-03-2025,Ankit
+3052,Mohit Agarwal,Lucknow,Stationery,smartphone,3.0,220.0,0.0,30-01-2025,Vikas
+3053,Karan Mehta,Delhi,Electronics,Headphones,5.0,2300.0,0.2,22-04-2025,Vikas
+3054,Riya Sharma,Mumbai,Electronics,Tablet,4.0,18300.0,0.2,18-02-2025,Vikas
+3055,Amit Sharma,Pune,Electronics,Laptop,4.0,55100.0,0.15,18-01-2025,Vikas
+3056,Priya Verma,Bengaluru,Home Appliances,Mixer Grinder,3.0,3300.0,0.15,25-03-2025,Meera
+3057,Rahul Singh,Pune,Stationery,Notebook,5.0,420.0,0.15,23-06-2025,Simran
+3058,Karan Mehta,Lucknow,Home Appliances,Mixer Grinder,5.0,3000.0,0.1,15-03-2025,Simran
+3059,Riya Sharma,Jaipur,Home Appliances,Electric Kettle,5.0,2100.0,0.15,24-04-2025,Simran
+3060,Rahul Singh,Mumbai,Furniture,Study Table,4.0,8600.0,0.2,19-06-2025,Aarav
+3061,Neha Gupta,Bengaluru,Electronics,Tablet,1.0,18000.0,0.05,07-02-2025,Ankit
+3062,Sneha Jain,Mumbai,Electronics,Laptop,2.0,55300.0,0.15,11-06-2025,Aarav
+3063,Sneha Jain,Lucknow,Furniture,Office Chair,4.0,7000.0,0.05,17-06-2025,Ankit
+3064,Neha Gupta,Agra,Electronics,Smartphone,-2.0,25300.0,0.0,23-05-2025,Simran
+3065,Rahul Singh,Hyderabad,Electronics,Smartphone,4.0,25100.0,0.15,06-06-2025,Aarav
+3066,Sneha Jain,Agra,Home Appliances,Electric Kettle,5.0,2100.0,0.15,08-03-2025,Simran
+3067,Sneha Jain,Pune,Stationery,Notebook,5.0,220.0,0.15,20-01-2025,Vikas
+3068,Pooja Yadav,Jaipur,Furniture,Office Chair,3.0,6800.0,0.05,08-02-2025,Simran
+3069,Neha Gupta,Mumbai,Home Appliances,Electric Kettle,2.0,2100.0,0.15,26-03-2025,Aarav
+3070,Amit Sharma,Pune,Stationery,Backpack,4.0,1800.0,0.15,30-05-2025,Ankit
+3071,Sneha Jain,Delhi,Home Appliances,Mixer Grinder,4.0,3300.0,0.1,10-04-2025,Meera
+3072,Riya Sharma,Pune,Furniture,Study Table,5.0,8800.0,0.05,11-03-2025,Meera
+3073,Rohit Kumar,Jaipur,Stationery,Backpack,1.0,1800.0,0.05,30-04-2025,Simran
+3074,Amit Sharma,Lucknow,Home Appliances,Mixer Grinder,5.0,3000.0,0.0,14-06-2025,Meera
+3075,Rahul Singh,Delhi,Electronics,Headphones,4.0,0.0,0.15,25-03-2025,Simran
+3076,Pooja Yadav,Lucknow,Stationery,Backpack,3.0,1600.0,0.15,06-03-2025,Ankit
+3077,Mohit Agarwal,Delhi,Stationery,Backpack,1.0,1600.0,0.05,16-06-2025,Ankit
+3078,Neha Gupta,Pune,Electronics,Laptop,1.0,54800.0,0.2,09-02-2025,Simran
+3079,Priya Verma,Pune,Electronics,Headphones,4.0,2800.0,0.1,05-04-2025,Simran
+3080,Priya Verma,Agra,Home Appliances,Mixer Grinder,5.0,3300.0,0.0,29-05-2025,Ankit
+3081,Rohit Kumar,Lucknow,Stationery,Notebook,5.0,120.0,0.0,01-06-2025,Simran
+3082,Riya Sharma,Mumbai,Electronics,Smartphone,3.0,24800.0,0.1,17-05-2025,Meera
+3083,Mohit Agarwal,Jaipur,Electronics,Tablet,1.0,17800.0,0.15,06-05-2025,Ankit
+3084,Sneha Jain,Agra,Home Appliances,Electric Kettle,3.0,2100.0,0.05,14-05-2025,Vikas
+3085,Sneha Jain,Hyderabad,Home Appliances,Mixer Grinder,5.0,3500.0,0.2,10-03-2025,Vikas
+3086,Karan Mehta,Hyderabad,Furniture,Office Chair,1.0,7000.0,0.15,26-05-2025,Aarav
+3087,Amit Sharma,Hyderabad,Home Appliances,Electric Kettle,3.0,1900.0,0.05,05-05-2025,Simran
+3088,Pooja Yadav,Bengaluru,Electronics,Tablet,3.0,18100.0,0.2,03-01-2025,Aarav
+3089,Neha Gupta,Lucknow,Furniture,Office Chair,1.0,7300.0,0.2,not_available,Meera
+3090,Amit Sharma,Mumbai,Stationery,Backpack,4.0,1600.0,0.05,14-04-2025,Simran
+3091,Pooja Yadav,Hyderabad,Stationery,Notebook,5.0,220.0,0.15,21-05-2025,Vikas
+3092,Karan Mehta,Bengaluru,Electronics,Tablet,4.0,18100.0,0.05,31-01-2025,Simran
+3093,Mohit Agarwal,Agra,Electronics,Tablet,1.0,18000.0,0.05,04-05-2025,Vikas
+3094,Riya Sharma,Bengaluru,Home Appliances,Mixer Grinder,5.0,3000.0,0.05,17-03-2025,Simran
+3095,Karan Mehta,Delhi,Electronics,Tablet,2.0,18000.0,0.1,12-01-2025,Ankit
+3096,Rahul Singh,Hyderabad,Furniture,Study Table,3.0,8300.0,0.0,27-05-2025,Vikas
+3097,Sneha Jain,Jaipur,Stationery,Backpack,4.0,1500.0,0.0,06-03-2025,Meera
+3098,Rohit Kumar,Hyderabad,Electronics,Smartphone,1.0,24800.0,0.2,11-06-2025,Ankit
+3099,Riya Sharma,Bengaluru,Electronics,Headphones,2.0,2300.0,0.05,31-01-2025,Aarav
+3100,Riya Sharma,Pune,Home Appliances,Electric Kettle,5.0,2100.0,0.15,24-04-2025,
+3101,Karan Mehta,Delhi,Home Appliances,Mixer Grinder,4.0,3000.0,0.05,10-06-2025,Simran
+3102,Rahul Singh,Pune,Stationery,Notebook,1.0,120.0,0.2,20-01-2025,Simran
+3103,Sneha Jain,Hyderabad,Electronics,Laptop,4.0,55100.0,0.0,01-03-2025,Vikas
+3104,Priya Verma,Pune,Stationery,Notebook,4.0,220.0,0.2,19-06-2025,Simran
+3105,Mohit Agarwal,Pune,Home Appliances,Electric Kettle,1.0,1800.0,0.1,06-02-2025,Ankit
+3106,Karan Mehta,Bengaluru,Electronics,Laptop,2.0,55300.0,0.0,30-04-2025,Vikas
+3107,Mohit Agarwal,Hyderabad,Home Appliances,Electric Kettle,3.0,2100.0,0.0,03-06-2025,Ankit
+3108,Riya Sharma,Bengaluru,Home Appliances,Electric Kettle,3.0,1600.0,0.0,28-02-2025,Aarav
+3109,Karan Mehta,Delhi,Home Appliances,Mixer Grinder,1.0,3200.0,0.15,13-05-2025,Meera
+3110,Riya Sharma,Lucknow,Stationery,Notebook,2.0,420.0,0.0,01-05-2025,Vikas
+3111,Pooja Yadav,Mumbai,Home Appliances,Electric Kettle,3.0,1800.0,0.1,16-04-2025,Meera
+3112,Mohit Agarwal,Delhi,Stationery,Notebook,4.0,420.0,0.0,22-03-2025,Vikas
+3113,Rohit Kumar,Delhi,Electronics,Tablet,1.0,18300.0,0.15,14-01-2025,Simran
+3114,Riya Sharma,Hyderabad,Furniture,Study Table,3.0,8800.0,0.0,22-02-2025,Vikas
+3115,Karan Mehta,Hyderabad,Furniture,Study Table,2.0,8800.0,0.0,08-01-2025,Aarav
+3116,Karan Mehta,Delhi,Furniture,Office Chair,2.0,7300.0,0.0,27-02-2025,Ankit
+3117,Rahul Singh,Hyderabad,Stationery,Backpack,1.0,1600.0,0.2,11-03-2025,Meera
+3118,Neha Gupta,Hyderabad,Stationery,Backpack,4.0,1500.0,0.15,18-02-2025,Aarav
+3119,Priya Verma,Bengaluru,Furniture,Study Table,2.0,8800.0,0.1,10-05-2025,Vikas
+3011,Amit Sharma,Pune,Furniture,Office Chair,3.0,6800.0,0.1,13-04-2025,Vikas
